@@ -1,0 +1,19 @@
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\bin\Debug\oboi star.exe.config
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\bin\Debug\oboi star.exe
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\bin\Debug\oboi star.pdb
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi star.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi_star.Properties.Resources.resources
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi star.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi star.exe
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi star.pdb
+C:\Users\ASUS\Desktop\Информатика\О как\oboi star\oboi star\obj\Debug\oboi_star.Form1.resources
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\bin\Debug\oboi star.exe.config
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\bin\Debug\oboi star.exe
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\bin\Debug\oboi star.pdb
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi star.csproj.AssemblyReference.cache
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi_star.Form1.resources
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi_star.Properties.Resources.resources
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi star.csproj.GenerateResource.cache
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi star.csproj.CoreCompileInputs.cache
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi star.exe
+C:\Users\chesh\Downloads\oboi star\oboi star\oboi star\obj\Debug\oboi star.pdb
